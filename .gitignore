@@ -1,0 +1,19 @@
+# gitignore
+
+# data
+*.csv
+*.xlsx
+*.xls
+*.zip
+
+# LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*.run.xml
+
+# notes
+*.txt
